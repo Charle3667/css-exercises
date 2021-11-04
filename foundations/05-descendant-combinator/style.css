@@ -1,0 +1,8 @@
+.container .text {
+    background-color: red;
+    color: yellow;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* a comma after ".container" would result in all ".text" classes being styled; not just those that are 'children' of the container class
